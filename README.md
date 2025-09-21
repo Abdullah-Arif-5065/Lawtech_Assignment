@@ -22,19 +22,19 @@ The assignment involved solving problems using the **given Frontend Templates** 
 
 ## 📝 Problems Solved  
 
-### ✅ Template 1 – Problem 1 (Trigonometry)  
+###  Template 1 – Problem 1 (Trigonometry)  
 Pythagorean triplet: (7, 24, 25)  
 Solved for \( \sec C + \cot A \) → **Final Answer: 4/3**  
 
-### ✅ Template 1 – Problem 2 (Trigonometry)  
+###  Template 1 – Problem 2 (Trigonometry)  
 Pythagorean triplet: (5, 12, 13)  
 Solved trigonometric relation from triangle values → **Final Answer derived from sides**  
 
-### ✅ Template 2 – Problem 1 (Compound Interest)  
+###  Template 2 – Problem 1 (Compound Interest)  
 Principal = ₹8000, Amount = ₹9680, Time = 2 years  
 Solved for Rate of Interest → **Final Answer: 10% p.a.**  
 
-### ✅ Template 2 – Problem 2 (Compound Interest)  
+###  Template 2 – Problem 2 (Compound Interest)  
 Principal = ₹10000, Rate = 10% p.a., Time = 3 years  
 Solved for Amount → **Final Answer: ₹13310**  
 
