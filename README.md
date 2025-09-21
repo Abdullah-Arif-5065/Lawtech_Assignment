@@ -1,41 +1,68 @@
-# 📘 Lawtech Assignment – Internship Evaluation  
+# 📘 Lawtech Internship Assignment Solutions  
 
-This repository contains my solutions for the **Lawtech Internship Assignment** provided via Internshala.  
-The assignment involved solving problems using the **given Frontend Templates** without modifying their structure or CSS, only replacing numbers, variables, and calculations.
-
----
-
-## 📂 Contents  
-
-- **Template 1 (Trigonometry – Pythagorean Triplet)**
-  - `Template1_Q1.html` → Solution: Trigonometry Problem 1  
-  - `Template1_Q2.html` → Solution: Trigonometry Problem 2  
-
-- **Template 2 (Compound Interest / Interest-based Questions)**
-  - `Template2_Q1.html` → Solution: Compound Interest Problem 1  
-  - `Template2_Q2.html` → Solution: Compound Interest Problem 2  
-
-- **Screenshots**
-  - Rendered outputs of all four problems as per the assignment deliverables.  
+This repository contains my completed solutions for the **Lawtech Internship Assignment** provided via Internshala.  
+All problems were solved using the **given frontend templates**, modifying only the numeric values, variables, and calculations while keeping the original structure and CSS intact.  
 
 ---
 
-## 📝 Problems Solved  
+## 📂 Folder Structure
 
-###  Template 1 – Problem 1 (Trigonometry)  
-Pythagorean triplet: (7, 24, 25)  
-Solved for \( \sec C + \cot A \) → **Final Answer: 4/3**  
+E:/Assignment/Lawtech
+│
+├─ Template1_Solution1/ # Trigonometry Problem 1
+├─ Template1_Solution2/ # Trigonometry Problem 2
+├─ Template2_Solution1/ # Compound Interest Problem 1
+├─ Template2_Solution2/ # Compound Interest Problem 2
+├─ Screenshots/ # Rendered outputs of all solutions
+└─ README.md
 
-###  Template 1 – Problem 2 (Trigonometry)  
-Pythagorean triplet: (5, 12, 13)  
-Solved trigonometric relation from triangle values → **Final Answer derived from sides**  
-
-###  Template 2 – Problem 1 (Compound Interest)  
-Principal = ₹8000, Amount = ₹9680, Time = 2 years  
-Solved for Rate of Interest → **Final Answer: 10% p.a.**  
-
-###  Template 2 – Problem 2 (Compound Interest)  
-Principal = ₹10000, Rate = 10% p.a., Time = 3 years  
-Solved for Amount → **Final Answer: ₹13310**  
 
 ---
+
+## 📝 Problems & Solutions with Previews
+
+### ✅ Template 1 – Problem 1 (Trigonometry)
+- **Folder:** `Template1_Solution1`  
+- **Problem:** Find \( \sec C + \cot A \) using a Pythagorean triplet (7, 24, 25).  
+- **Solution:** Applied trigonometric identities for the given triangle.  
+- **Final Answer:** **4/3**  
+- **Preview:**  
+![Template1_Q1](Screenshots/Template1_Q1.png)
+
+---
+
+### ✅ Template 1 – Problem 2 (Trigonometry)
+- **Folder:** `Template1_Solution2`  
+- **Problem:** Solve trigonometric relation from a Pythagorean triplet (5, 12, 13).  
+- **Solution:** Calculated using triangle side ratios and trigonometric formulas.  
+- **Final Answer:** Derived from sides of the triangle.  
+- **Preview:**  
+![Template1_Q2](Screenshots/Template1_Q2.png)
+
+---
+
+### ✅ Template 2 – Problem 1 (Compound Interest)
+- **Folder:** `Template2_Solution1`  
+- **Problem:** Principal = ₹8000, Amount = ₹9680, Time = 2 years. Find the Rate of Interest.  
+- **Solution:** Used the compound interest formula \( A = P(1 + \frac{R}{100})^T \) and solved for R.  
+- **Final Answer:** **10% p.a.**  
+- **Preview:**  
+![Template2_Q1](Screenshots/Template2_Q1.png)
+
+---
+
+### ✅ Template 2 – Problem 2 (Compound Interest)
+- **Folder:** `Template2_Solution2`  
+- **Problem:** Principal = ₹10000, Rate = 10% p.a., Time = 3 years. Find the Amount.  
+- **Solution:** Applied the compound interest formula \( A = P(1 + \frac{R}{100})^T \).  
+- **Final Answer:** **₹13,310**  
+- **Preview:**  
+![Template2_Q2](Screenshots/Template2_Q2.png)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Abdullah-Arif-5065/Lawtech_Assignment.git
